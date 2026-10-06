@@ -9,10 +9,10 @@ I am a computer engineering student focusing on software engineering, backend sy
 ### Languages & Tools
 
 **Programming & Web:**
-- `C++` | `Python` | `Java` | `JavaScript` | `HTML5` | `CSS3` | `PHP`
+- `C++` | `Python` | `Java` | `JavaScript` | `HTML5` | `CSS3`
 
 **Frameworks & Libraries:**
-- `React` | `Flask`
+- `React`
 
 **Databases & Environments:**
 - `PostgreSQL`| `Git` | `GitHub` | `VS Code`
